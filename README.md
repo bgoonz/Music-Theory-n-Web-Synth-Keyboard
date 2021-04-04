@@ -3,6 +3,7 @@
 
 # ➤ Bryan Guner
 
+# [Deployed](https://synth-music-theory.netlify.app/)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#introduction-to-practical-music-theory)
 
